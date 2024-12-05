@@ -30,19 +30,11 @@ function checkPrime(num){
 }
 console.log(checkPrime(num))
 
-
-
-
-
 if (checkPrime == true ){
         console.log("The number is prime");}
 else {
         console.log("The number is composite")
     }
-
-
-
-
 
 if (count++ < 4){
     console.log(" you are a legend player");
